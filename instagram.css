@@ -295,6 +295,8 @@ body{
 
 .right-col{
     padding: 20px;
+    position: fixed;
+    left: 60%;
 }
 
 .profile-card{
